@@ -1,4 +1,4 @@
-# OptimizeProfits
+# Optimizing Profits for OilyGiant using ML Business Metrics
 
 Short description:
 
