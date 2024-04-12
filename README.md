@@ -1,7 +1,5 @@
 # Optimizing Profits for OilyGiant using ML Business Metrics
 
-Short description:
-
 The OilyGiant mining company is looking to expand its operations by drilling new oil wells in one of three regions. comprehensive data science project has been initiated. The primary goal of this project is to select the region that will maximize profit for the company.
 
 # Data description
